@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual env
+.env/
+.venv/
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
